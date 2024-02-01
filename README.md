@@ -13,8 +13,7 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 Screenshots :
 
-<img src="screenshots/screenshot01.png" width="300"> <img src="screenshots/screenshot02.png" width="300"> <img src="screenshots/screenshot03.png" width="300">
-<img src="screenshots/screenshot04.png" width="300"> <img src="screenshots/screenshot05.png" width="300"> <img src="screenshots/screenshot06.png" width="300">
+<img src="/screenshot01.png" width="300">
 
 
 

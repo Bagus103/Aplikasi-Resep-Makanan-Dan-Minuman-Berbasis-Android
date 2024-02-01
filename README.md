@@ -13,7 +13,7 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 Screenshots :
 
-<img src="/splash apk.png" width="300"> <img src="/ss all resep.png" width="300"> <img src="/ss bookmark.png" width="300">
+<img src="/splash apk.png" width="300"> <img src="/ss all resep.jpg" width="300"> <img src="/ss bookmark.jpg" width="300">
 
 
 

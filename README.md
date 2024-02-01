@@ -1,4 +1,4 @@
-# 🔥 Resep Makanan Dan Minuman
+# 🔥 Aplikasi Resep Makanan Dan Minuman
 
 Aplikasi ini dibuat menggunakan framework flutter
 
@@ -7,7 +7,6 @@ Star⭐ the repo if you like what you see😉.
 ## ✨ Features :
 - Search for recipes.
 - Sort recipes in an ascending order.
-- Visit the original website of the recipe with Flutter WebView.
 - Add/Remove/Retrieve Recipes Offline with Flutter Hive.
 - Beautiful UI.
 

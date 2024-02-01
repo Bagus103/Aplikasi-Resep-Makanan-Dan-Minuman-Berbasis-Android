@@ -18,11 +18,6 @@ Star⭐ the repo if you like what you see😉.
 
 
 
-**=> The Baker icon is from [FlatIcon](<a href="https://www.flaticon.com/free-icons/chef" title="chef icons">Chef icons created by Freepik - Flaticon</a>/)**
-
-**=> The Flags icons are from [FlatIcon](https://www.flaticon.com/packs/flags-collection)**
-
-**=> The UI is inspired from [Behance](https://www.behance.net/gallery/96301779/Mobile-App-Food-Recipe-Application)**
 
 
 

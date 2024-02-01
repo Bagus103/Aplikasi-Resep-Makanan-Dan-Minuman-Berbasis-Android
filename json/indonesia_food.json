@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Seblak",
+    "rate": 4.5,
+    "min": 30,
+    "cal": 1135,
+    "difficulty":"Easy",
+    "ingredients": [
+      {
+        "quantity": "3 siung",
+        "name": " bawang putih"
+      },
+      {
+        "quantity": "5 siung",
+        "name": "5 siung "
+      },
+      {
+        "quantity": "7",
+        "name": "cabai merah kecil"
+      },
+      {
+        "quantity": "2",
+        "name": "cabai merah besar"
+      },
+      {
+        "quantity": "1",
+        "name": "ruas kencur"
+      },
+      {
+        "quantity": "1",
+        "name": "genggam kerupuk bawang dan makaroni"
+      },
+      {
+        "quantity": "2",
+        "name": "buah sosis"
+      },
+      {
+        "quantity": "1",
+        "name": "butir telur"
+      },
+      {
+        "quantity": "1",
+        "name": "batang daun bawang"
+      },
+      {
+        "quantity": "1/2 mangkok",
+        "name": "ayam suwir"
+      },
+      {
+        "quantity": "1/2 sendok",
+        "name": "Garam, gula, penyedap rasa"
+      }
+
+    ],
+    "steps": [
+      "Langkah pertama membuat seblak adalah merendam kerupuk dan makaroni dengan air panas atau dapat direbus, kemudian pastikan hingga mengembang.",
+      "Kemudian haluskan bumbu seperti bawang merah, bawang putih, kencur, dan cabai.",
+      "Lalu siapkan wajan, tumis bumbu dengan tambahan minyak sedikit goreng hingga harum.",
+      "Tambahkan air 3 gelas, tunggu hingga semuanya mendidih.",
+      "Masukkan telur, kemudian aduk semua hingga tercampur rata. Lalu tambahkan semua bahan-bahan seperti sosis, ayam suwir, dan sawi.",
+      "Masak hingga matang, lalu tambahkan garam, gula, dan penyedap rasa sesuai selera.",
+      "Seblak siap disajikan selagi hangat."
+    ],
+    "img":"https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/18072704/Di-Balik-Rasa-Pedas-yang-Nikmat-Ketahui-Kalori-Seblak-1.jpg.webp?fit=700,1024",
+    "original_website":"https://cookpad.com/id/resep/1448546-seblak-kerupuk-basah"
+  },
+  {
+    "name": "Es Kepal Milo",
+    "rate": 3.2,
+    "min": 30,
+    "cal": 134,
+    "difficulty":"Easy",
+    "ingredients": [
+      {
+        "quantity": "6 sdm",
+        "name": "Bubuk milo"
+      },
+      {
+        "quantity": "1 sdm",
+        "name": "bubuk coklat"
+      },
+      {
+        "quantity": "4 sdm",
+        "name": "susu kental manis"
+      },
+      {
+        "quantity": "1 sdm",
+        "name": "Air panas"
+      },
+      {
+        "quantity": "400 gram",
+        "name": "Es batu"
+      },
+      {
+        "quantity": "3 keping",
+        "name": "oreo"
+      },
+      {
+        "quantity": "2 sdm",
+        "name": "Meises"
+      },
+      {
+        "quantity": "1 sdm",
+        "name": "almond keping yang sudah di panggang"
+      }
+
+    ],
+    "steps": [
+      "Preheat oven to 375°. In a large bowl, beat the butter, oil and sugars. Beat in eggs until well blended. Beat in vanilla. Combine the flour, baking soda and cream of tartar; gradually add to creamed mixture.",
+      "Drop by small teaspoonfuls onto ungreased baking sheets. Bake until lightly browned, 8-10 minutes. Remove to wire racks to cool."
+    ],
+    "img":"https://wiratech.co.id/wp-content/uploads/2018/05/cara-membuat-es-kepal-milo.jpg?resize=700,700",
+    "original_website":"https://cookpad.com/id/resep/4844795-es-kepal-milo"
+  },
+  {
+    "name": "Kopi Dalgona",
+    "rate": 4.7,
+    "min": 30,
+    "cal": 1334,
+    "difficulty":"Medium",
+    "ingredients": [
+      {
+        "quantity": "2 sdm",
+        "name": "NESCAFÉ Classic"
+      },
+      {
+        "quantity": "2 sdm",
+        "name": "gula putih"
+      },
+      {
+        "quantity": "2 sdm",
+        "name": "air panas"
+      },
+      {
+        "quantity": "125 ml",
+        "name": "susu cair"
+      },
+      {
+        "quantity": "1 gelas",
+        "name": "es batu"
+      }
+
+    ],
+    "steps": [
+      "Masukkan NESCAFÉ Classic, gula dan air panas ke dalam mangkuk kecil, kemudian aduk dengan cepat hingga mengembang menjadi whipped coffee.",
+      "Siapkan gelas, kemudian tuangkan susu cair dan es batu secukupnya.",
+      "Tuangkan whipped coffee ke dalam gelas susu.",
+      "Sajikan."
+    ],
+    "img":"https://skandinavia.co.id/wp-content/uploads/2023/05/dalgonacoffee-7.jpg?fit=700,1024",
+    "original_website":"https://resepkoki.id/resep/resep-dalgona-coffee/"
+  },
+  {
+    "name": "Chocolate Peanut Butter Shakes",
+    "rate": 4.9,
+    "min": 20,
+    "cal": 3334,
+    "difficulty":"Easy",
+    "ingredients": [
+      {
+        "quantity": "3/4 Cup",
+        "name": "Milk"
+      },
+      {
+        "quantity": "1/2 Cup",
+        "name": "Ice Cream Choclate"
+      },
+      {
+        "quantity": "1/4 Cup",
+        "name": "Creamy Peanut"
+      },
+      {
+        "quantity": "2 teaspoons",
+        "name": "Choclate Syrup"
+      }
+
+    ],
+    "steps": [
+      "In a blender, combine the milk, ice cream, peanut butter and syrup; cover and process until smooth. If desired, garnish with whipped cream, peanut butter cups and additional chocolate syrup."
+    ],
+    "img":"https://www.tasteofhome.com/wp-content/uploads/2019/10/Chocolate-Peanut-Butter-Shakes_EXPS_FT19_245766_F_1008_1-10.jpg?fit=700,1024",
+    "original_website":"https://www.tasteofhome.com/recipes/chocolate-peanut-butter-shakes/"
+  },
+  {
+    "name": "Odading",
+    "rate": 5.0,
+    "min": 115,
+    "cal": 3334,
+    "difficulty":"Hard",
+    "ingredients": [
+      {
+        "quantity": "1 sendok teh",
+        "name": "ragi instan"
+      },
+      {
+        "quantity": "50 ml",
+        "name": "air hangat"
+      },
+      {
+        "quantity": "1 sendok makan",
+        "name": "gula pasir (untuk bahan biang)"
+      },
+      {
+        "quantity": "250 gram",
+        "name": "tepung terigu"
+      },
+      {
+        "quantity": "2",
+        "name": "butir telur"
+      },
+      {
+        "quantity": "1 sachet",
+        "name": "susu putih bubuk"
+      },
+      {
+        "quantity": "1 sendok teh",
+        "name": "garam"
+      },
+      {
+        "quantity": "1/4 sendok teh",
+        "name": "vanili bubuk"
+      },
+      {
+        "quantity": "4 sendok makan",
+        "name": "gula pasir"
+      },
+      {
+        "quantity": "1 sendok makan",
+        "name": "margarin"
+      },
+      {
+        "quantity": "Air ",
+        "name": "secukupnya"
+      },
+      {
+        "quantity": "Biji wijen putih",
+        "name": "secukupnya"
+      },
+      {
+        "quantity": "Minyak goreng",
+        "name": "secukupnya"
+      }
+
+    ],
+    "steps": [
+      "Siapkan semua bahan yang dibutuhkan untuk membuat odading atau roti bantal.",
+      "Buat bahan biangnya terlebih dahulu dengan mencampurkan ragi instan, air hangat, dan gula pasir dalam gelas.",
+      "Aduk rata sampai gula larut dan diamkan selama 10 menit sampai berbusa.",
+      "Setelah 10 menit, siapkan wadah besar dan campurkan tepung terigu, telur, susu putih bubuk, garam, vanili bubuk, gula pasir, margarin, dan bahan biang. aduk secara merata agar semua bahan tercampur.",
+      "Tuang air sedikit demi sedikit ke dalam adonan sambil terus diuleni menggunakan tangan. tuang air sampai adonan merata dan kalis.",
+      "Setelah kalis, bulatkan adonan dan tutup menggunakan kain bersih atau plastik wrap. diamkan selama 60 menit sampai mengembang 2x lipat.",
+      "Setelah 60 menit, kempiskan adonan dan uleni lagi hingga elastis",
+      "Taburi sedikit tepung agar tidak lengket dan pipihkan adonan menggunakan rolling pin atau alat lain dengan ketebalan 1-2 cm.",
+      "Potong adonan menjadi bentuk kotak-kotak sesuai selera.",
+      "Olesi permukaannya dengan air dan beri taburan biji wijen secukupnya.",
+      "Diamkan lagi adonan odading yang sudah dibentuk selama 20 menit sampai mengembang lagi.",
+      "Setelah 20 menit, baru panaskan banyak minyak dalam wajan untuk menggoreng.",
+      "Goreng odading dengan api sedang sampai mengembang matang berwarna kuning kecoklatan. angkat dan tiriskan. ",
+      "Odading siap di sajikan selagi hangat."
+
+
+    ],
+    "img":"https://assets.resepedia.id/assets/images/2021/03/1693940251751673-odading.jpg?fit=700,1024",
+    "original_website":"https://resepedia.id/resep/odading"
+  },
+
+  {
+    "name": "Microwaved Chocolate Pots",
+    "rate": 5.0,
+    "min": 10,
+    "cal": 612,
+    "difficulty":"Easy",
+    "ingredients": [
+      {
+        "quantity": "300G",
+        "name": "Dark Chocolate"
+      },
+      {
+        "quantity": "500G",
+        "name": "Fromage"
+      }
+    ],
+    "steps": [
+      "Break dark chocolate into a bowl.",
+      "Microwave on medium (500W) for 2-3 minutes, then stir until smooth.",
+      "Add fromage frais and stir. Divide between 6 pots and eat straightaway."
+    ],
+    "img":"https://www.deliciousmagazine.co.uk/wp-content/uploads/2018/08/521275-1-eng-GB_microwave-chocolate-pots-768x950.jpg",
+    "original_website":"https://www.deliciousmagazine.co.uk/recipes/microwaved-chocolate-pots/"
+  }
+
+]

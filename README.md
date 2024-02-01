@@ -1,6 +1,6 @@
-# 🔥 International Recipes App
+# 🔥 Resep Makanan Dan Minuman
 
-An App for offline recipes from all over the world (4 countries so far), built with BLoC State managment Library and Hive Database.
+Aplikasi ini dibuat menggunakan framework flutter
 
 Star⭐ the repo if you like what you see😉.
 

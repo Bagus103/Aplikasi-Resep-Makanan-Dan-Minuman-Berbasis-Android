@@ -13,7 +13,7 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 Screenshots :
 
-<img src="/screenshot01.png" width="300">
+<img src="/splash apk.png" width="300">
 
 
 
